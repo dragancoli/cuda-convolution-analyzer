@@ -61,7 +61,6 @@ Analiza je pokazala da GPGPU varijanta donosi drastično ubrzanje u odnosu na sv
 Detaljni grafikoni i analiza se nalaze u priloženom izveštaju (`Izvjestaj.pdf`).
 
 ![Grafik Ubrzanja](performance_comparison.png)  
-![performance_comparison_3](https://github.com/user-attachments/assets/6b24cf1a-e66b-4fb4-b910-b0a6aa269a00)
 
 ---
 
